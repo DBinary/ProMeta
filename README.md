@@ -69,3 +69,13 @@ python main.py \
     --outer_lr 1e-4 \
     --inner_lr 0.005
 ```
+
+## Citation
+If you find this code or our paper useful for your research, please cite:
+```
+@article{Li2026ProMeta,
+  title={ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics},
+  author={Li, Han and Gu, Haoteng and Hu, Lei and Zhang, Zimo and Lv, Yongji and Gao, Peng and Cooper-Knock, Johnathan and Min, Yaosen and Zeng, Jianyang and Zhang, Sai},
+  year={2026},
+}
+```
