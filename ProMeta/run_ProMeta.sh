@@ -4,8 +4,10 @@
 # ProMeta Running Script (Modular Version)
 # ==========================================
 
-DATA_DIR="/home/dataset-assist-0/yaosen/lihan/ght/Prophet-Meta-temp/data/out/"
-PROTEOMICS_CSV="/home/dataset-assist-0/yaosen/lihan/ght/Prophet-Meta-temp/Prophet/data/preprocessed_proteomics_data.csv"
+DATA_DIR="./" #  The DATA_DIR variable in run_ProMeta.sh must point to a directory containing the following 6 pickle (.pkl) files: 
+              #  1.term2pre_cases_train.pkl 2.term2pre_controls_train.pkl 3.term2pre_cases_valid.pkl 
+              #  4.term2pre_controls_valid.pkl 5.term2pre_cases_test.pkl 6.term2pre_controls_test.pkl
+PROTEOMICS_CSV="./preprocessed_proteomics_data.csv"
 CPDB_FILE="../resource/CPDB_pathways_genes.tab"
 OUTPUT_DIR="./experiments_output"
 
