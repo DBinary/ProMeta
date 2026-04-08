@@ -4,7 +4,7 @@
 
 This repository contains the code and resources of the following paper:
 
-ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics (ISMB 2026, conditionally accepted)
+ProMeta: A meta-learning framework for robust disease diagnosis and prediction from plasma proteomics (ISMB 2026 / Bioinformatics)
 
 Overview of the ProMeta framework
 
