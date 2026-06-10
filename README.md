@@ -1,4 +1,4 @@
-# ProMeta
+# ProMeta (ISMB 2026 / Bioinfomatics)
 
 ## About
 
